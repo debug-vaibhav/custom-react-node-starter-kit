@@ -1,6 +1,7 @@
 This project is bootstrapped with [React](https://github.com/facebook/create-react-app) & [Express](https://expressjs.com/)
 
 # Starter kit for ReactJS app & NodeJS (ExpressJS) app
+### (react-redux setup + express setup)
 
 ## How to clone the project
 
