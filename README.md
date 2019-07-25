@@ -1,10 +1,10 @@
 This project is bootstrapped with [React](https://github.com/facebook/create-react-app) & [Express](https://expressjs.com/)
 
-# Deep lens
+# Starter kit for ReactJS app & NodeJS (ExpressJS) app
 
 ## How to clone the project
 
-- `git clone https://github.com/cts-hackathon/deep-lens.git`
+- `git clone https://github.com/debugger-me/custom-react-node-starter-kit.git`
 - contact admin for username & password if you don't have prior permissions to clone the repo as it's a private repo
 
 ## How to start local development
